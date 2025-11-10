@@ -1,10 +1,13 @@
 ## tmux sessionizer
+
 its a script that does everything awesome at all times
 
 ## Requirements
+
 fzf and tmux
 
 ## Usage
+
 ```bash
 tmux-sessionizer [<partial name of session>]
 ```
